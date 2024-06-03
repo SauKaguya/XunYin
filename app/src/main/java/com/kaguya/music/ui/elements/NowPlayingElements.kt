@@ -56,7 +56,6 @@ import com.kaguya.music.data.artistList
 import com.kaguya.music.data.selectedArtist
 import com.kaguya.music.fadingEdge
 import com.kaguya.music.player.SongHelper
-import com.kaguya.music.ui.DownloadButton
 import com.kaguya.music.ui.LyricsButton
 import com.kaguya.music.ui.LyricsView
 import com.kaguya.music.ui.MainButtons
